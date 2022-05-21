@@ -1,0 +1,50 @@
+header{
+    font-size: 50px;
+    color:beige;
+   
+    background-color: brown;
+}
+
+a
+{
+    color:beige;
+}
+
+body{
+    font-size: 30px;
+    color:azure;
+    max-width: 600px;
+    margin:auto;
+    font-family: arial;
+    background-color: black;
+}
+
+#Blog1{
+    font-size: 20px; 
+    color:rgb(255, 166, 0);
+}
+
+.Blog{
+    font-size: 30px; 
+    color:aqua;
+}
+
+
+.paragraph{
+    font-size: 30px;
+    color:rgb(47, 255, 0);
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#button {
+    font-size: 30px;
+    text-align: center;
+    border-style: dashed;
+    border-color:chocolate;
+}
+
+article + article{
+    margin-top: 5em;
+    border-top: 15px dotted;
+}
